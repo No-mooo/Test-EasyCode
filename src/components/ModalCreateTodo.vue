@@ -112,12 +112,11 @@ export default {
         }
 
         &__create {
-            background-color: rgb(90, 93, 95);
+            background-color: #799fb9;
             width: max-content;
             align-self: center;
             padding: 10px 20px;
             border-radius: 10px;
-            // color: white;
         }
    
         input {
