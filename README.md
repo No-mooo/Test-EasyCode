@@ -1,19 +1,5 @@
-# main_vue3
-
-## Project setup
+# Show project
 ```
-npm install
+https://no-mooo.github.io/Test-EasyCode/
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
